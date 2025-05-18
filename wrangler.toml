@@ -1,0 +1,14 @@
+name = "chirp-spectrum"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+kv_namespaces = [
+  { binding = "AI_SENTIMENT_TWEETS", id = "your_kv_namespace_id_here" }
+]
+
+[build]
+command = ""
+
+[build.upload]
+format = "modules"
+main = "./src/index.ts" 

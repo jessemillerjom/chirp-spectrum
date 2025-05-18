@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+.env
+
+# Build output
+dist/
+build/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local development
+.dev.vars
+.wrangler/
+.env*
+!.env.example 
