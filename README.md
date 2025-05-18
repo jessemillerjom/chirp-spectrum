@@ -1,6 +1,6 @@
 # Chirp Spectrum
 
-A Cloudflare Workers application that collects and analyzes AI-related tweets using sentiment analysis. The application provides a real-time dashboard showing sentiment trends and detailed analysis of AI-related discussions on Twitter.
+A Cloudflare Workers application that collects and analyzes AI-related tweets using sentiment analysis. The application provides a historical dashboard showing sentiment trends and detailed analysis of AI-related discussions on Twitter.
 
 ## Demo
 
@@ -12,7 +12,7 @@ A Cloudflare Workers application that collects and analyzes AI-related tweets us
 - Performs multi-aspect sentiment analysis using Mistral AI
 - Interactive dashboard with sentiment trends visualization
 - Detailed tweet analysis with technological, societal, and ethical aspects
-- Real-time data collection with rate limiting and error handling
+- Historical data collection with rate limiting and error handling
 - Cancellable collection process
 - Mobile-friendly UI with side panel for tweet details
 
