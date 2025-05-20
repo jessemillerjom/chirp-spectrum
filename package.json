@@ -22,7 +22,7 @@
 	"dependencies": {
 		"@cloudflare/kv-asset-handler": "^0.3.0",
 		"acorn": "^8.14.0",
-		"acorn-walk": "^8.3.2",
+		"acorn-walk": "^8.3.4",
 		"as-table": "^1.0.55",
 		"assertion-error": "^2.0.1",
 		"birpc": "^0.2.14",
