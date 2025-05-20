@@ -25,7 +25,7 @@
 		"acorn-walk": "^8.3.2",
 		"as-table": "^1.0.55",
 		"assertion-error": "^2.0.1",
-		"birpc": "^0.2.14",
+		"birpc": "^0.2.19",
 		"blake3-wasm": "^2.1.5",
 		"cac": "^6.7.14",
 		"chai": "^5.2.0",
