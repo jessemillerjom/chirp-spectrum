@@ -41,7 +41,7 @@
 		"deep-eql": "^5.0.2",
 		"defu": "^6.1.4",
 		"detect-libc": "^2.0.4",
-		"devalue": "^4.3.3",
+		"devalue": "^5.3.2",
 		"es-module-lexer": "^1.7.0",
 		"esbuild": "^0.25.4",
 		"estree-walker": "^3.0.3",
